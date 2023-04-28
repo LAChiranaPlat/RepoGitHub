@@ -5,3 +5,12 @@ B:25
 C:10
 D:30
 E:35
+
+clone					bajar proyecto
+commit					aceptar cambios en el pro (local)
+push					subir todos los commits al servidor
+pull (fetch origin)		bajar o actualizar los commits del servidor
+
+
+decir		1	2	3	4	5	6	7	8	9	10
+trab		1	2	3	4 	5	6	7	8	9	10	
